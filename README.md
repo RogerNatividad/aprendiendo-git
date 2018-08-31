@@ -1,2 +1,3 @@
 # aprendiendo-git
-una breve introducción a Git
+# Otro tiutlo
+una breve introducción a *Git*
